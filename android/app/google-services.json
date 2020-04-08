@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1020720625890",
+    "firebase_url": "https://mindhug-853e1.firebaseio.com",
+    "project_id": "mindhug-853e1",
+    "storage_bucket": "mindhug-853e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020720625890:android:6b3bada1763f075e9a46bb",
+        "android_client_info": {
+          "package_name": "mindhug.mindhug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020720625890-8ubhdcktuos6vjemef82fg5m9v2js9uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mindhug.mindhug",
+            "certificate_hash": "a1ce7ed1a2c4c0feeb5b5dfa30246b60e390295a"
+          }
+        },
+        {
+          "client_id": "1020720625890-beh7mlolhomnqd7ilugjatvvrdauvqpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAljOOp-9IdApFPDVyc3pkxg4JWV1foNIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020720625890-beh7mlolhomnqd7ilugjatvvrdauvqpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
